@@ -1,0 +1,2 @@
+ctftime.org
+join IRC
